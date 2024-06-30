@@ -1,1 +1,2 @@
-def get_numbers_ticket(min, max, quantity)
+def get_numbers_ticket(min, max, quantity):
+    
